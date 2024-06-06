@@ -16,7 +16,7 @@ function App() {
       <div className="relative overflow-x-auto shadow-md sm:rounded-lg mx-auto ">
         <Myheader />
 
-        <div className="container mt-5 pr-5">
+        <div className="mt-5 pr-5">
           <Card>
             <div className="mx-auto w-100 h-50 pt-5">
               <div className="pt-5">

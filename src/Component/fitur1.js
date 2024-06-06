@@ -7,8 +7,8 @@ class Fitur1 extends Component {
       <div className="container">
         <div className="row pt-5">
           <div className="col">
-          <div className="h1">
-            asbcjabcsuahcbasdhbchcdcndcdcds<br/>jfdiuhfwhfiwuhfiuwhfjiufuof
+          <div className="h1 text-green-800 hover:text-green-500">
+           Islamic Boarding School<br/>SMK TI Bazma
           </div>
             <div className="mb-3 p h3 pt-5">
               Sekolah Menengah Kejuruan Teknologi Informasi Bazma (SMK TI BAZMA)

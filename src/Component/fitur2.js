@@ -14,7 +14,7 @@ class Fasilitas extends Component {
         <hr className="my-6 border lg:my-8" />
         <div className="row">
           <div className="col text-center">
-            <div className="card-container">
+            <div className="card-container shadow">
               <a href="#">
                 <img className="rounded-t-lg" src={GedungAsrama} alt="" />
               </a>
@@ -51,9 +51,8 @@ class Fasilitas extends Component {
               </div>
             </div>
           </div>
-          {/* Ulangi div di atas untuk kartu lainnya */}
           <div className="col text-center">
-            <div className="card-container">
+            <div className="card-container shadow">
               <a href="#">
                 <img className="rounded-t-lg" src={MasjidDanAula} alt="" />
               </a>
@@ -91,7 +90,7 @@ class Fasilitas extends Component {
             </div>
           </div>
           <div className="col text-center">
-            <div className="card-container">
+            <div className="card-container shadow">
               <a href="#">
                 <img className="rounded-t-lg" src={Lapangan} alt="" />
               </a>
@@ -129,7 +128,7 @@ class Fasilitas extends Component {
             </div>
           </div>
           <div className="col text-center">
-            <div className="card-container">
+            <div className="card-container shadow">
               <a href="#">
                 <img className="rounded-t-lg" src={RunagKelasDanLeb} alt="" />
               </a>
